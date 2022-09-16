@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/lyric_at_wood/static/css/main.cd181d9a.css",
+    "main.js": "/lyric_at_wood/static/js/main.d48363fc.js",
+    "static/media/abc.jpg": "/lyric_at_wood/static/media/abc.d8206e003e784885a8d6.jpg",
+    "static/media/c.png": "/lyric_at_wood/static/media/c.b709ea265303cc17e198.png",
+    "static/media/m.png": "/lyric_at_wood/static/media/m.62ab3fdba862476deb20.png",
+    "static/media/l.png": "/lyric_at_wood/static/media/l.8c54b7f7cb66b7cbd66a.png",
+    "static/media/def.png": "/lyric_at_wood/static/media/def.164e1e4e5755b02bd109.png",
+    "static/media/h.png": "/lyric_at_wood/static/media/h.b6082272c95d7756fca7.png",
+    "static/media/b.png": "/lyric_at_wood/static/media/b.c3258b0a4297ee316880.png",
+    "static/media/a.png": "/lyric_at_wood/static/media/a.ab5a2b7ea3319c7c268c.png",
+    "static/media/g.png": "/lyric_at_wood/static/media/g.46a662cb263b1a03d6bc.png",
+    "static/media/j.png": "/lyric_at_wood/static/media/j.05249c5400680bebeb8d.png",
+    "static/media/i.png": "/lyric_at_wood/static/media/i.ac39694eefb81ab7bcfa.png",
+    "static/media/d.png": "/lyric_at_wood/static/media/d.e85795ac90c57d7de6fe.png",
+    "static/media/e.png": "/lyric_at_wood/static/media/e.4c02e9cdaea425511243.png",
+    "static/media/k.png": "/lyric_at_wood/static/media/k.a5ca8da033094b5e0213.png",
+    "static/media/f.png": "/lyric_at_wood/static/media/f.4ea020727d0bec860304.png",
+    "index.html": "/lyric_at_wood/index.html",
+    "main.cd181d9a.css.map": "/lyric_at_wood/static/css/main.cd181d9a.css.map",
+    "main.d48363fc.js.map": "/lyric_at_wood/static/js/main.d48363fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd181d9a.css",
+    "static/js/main.d48363fc.js"
+  ]
+}
